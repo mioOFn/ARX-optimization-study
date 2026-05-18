@@ -32,5 +32,12 @@ ARX-optimization-study/
 │   ├── bench_skein256_hash.c     
 │   ├── ballet_ubi128_256.h                   #Ballet-UBI实现（Ballet嵌入UBI框架）  
 │   ├── ballet_ubi128_256.c     
-│   └── bench_ballet_ubi128_256_hash.c        #Ballet-UBI性能测试    
-                    
+│   └── bench_ballet_ubi128_256_hash.c        #Ballet-UBI性能测试 
+
+## 项目声明
+
+- 项目名称：ARX密码性能优化研究
+- 项目作者：mioOFn
+- 作者单位：暨南大学网络空间安全学院
+- 开发语言：C/C++
+- 核心技术：哈希函数加密，perf事件分析
